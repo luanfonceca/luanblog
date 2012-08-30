@@ -5,6 +5,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import bpython
 import flask
 from flask.ext.script import Manager
+import pdb;pdb.set_trace()
 from luanblog import app
 from luanblog import models
 from luanblog.auth import create_user as auth_create_user
