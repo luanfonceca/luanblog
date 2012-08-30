@@ -2,10 +2,14 @@ Flask==0.9
 Flask-Script==0.4.0
 Flask-WTF==0.8
 Jinja2==2.6
+Pygments==1.5
 WTForms==1.0.2
 Werkzeug==0.8.3
 argparse==1.2.1
+bpython==0.11
 flask-mongoengine==0.6
+ipython==0.13
 mongoengine==0.6.20
 pymongo==2.3
+readline==6.2.2
 wsgiref==0.1.2
